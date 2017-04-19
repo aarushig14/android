@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TODO_LIST</string>
+    <string name="title_activity_add_task">Add_task</string>
+</resources>

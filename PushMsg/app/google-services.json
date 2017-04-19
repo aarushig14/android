@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "378908158211",
+    "firebase_url": "https://my-pushmsg-app-b5ead.firebaseio.com",
+    "project_id": "my-pushmsg-app-b5ead",
+    "storage_bucket": "my-pushmsg-app-b5ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378908158211:android:6aa4c4150f45e512",
+        "android_client_info": {
+          "package_name": "com.example.agupta1409.pushmsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378908158211-p6p5nmpipcoigk3305ami4gar5pi0qb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agupta1409.pushmsg",
+            "certificate_hash": "83083452685D8BC202881648AF68E922842190F6"
+          }
+        },
+        {
+          "client_id": "378908158211-8lfr5akhoc9bqu40n6e78pi1g2pfao8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrTYOkNwArIdPS-sh9O4qU0LQMsQv1kyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378908158211-8lfr5akhoc9bqu40n6e78pi1g2pfao8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

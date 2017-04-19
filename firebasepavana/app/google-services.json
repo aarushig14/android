@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "509079211657",
+    "firebase_url": "https://pavana-push-mess-app.firebaseio.com",
+    "project_id": "pavana-push-mess-app",
+    "storage_bucket": "pavana-push-mess-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509079211657:android:af5f05d7f67440f3",
+        "android_client_info": {
+          "package_name": "com.example.agupta1409.firebasepavana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509079211657-4bttmu9mi63iq0po7a6dvvh1cpvir3hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agupta1409.firebasepavana",
+            "certificate_hash": "83083452685D8BC202881648AF68E922842190F6"
+          }
+        },
+        {
+          "client_id": "509079211657-duhh9mvhednh31bgljs7tjc4dv0fo87u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBDH0hU5Ph2TyseW_P3qEbgD2PTtJhquY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509079211657-duhh9mvhednh31bgljs7tjc4dv0fo87u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

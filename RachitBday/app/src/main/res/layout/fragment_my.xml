@@ -1,0 +1,67 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.agupta1409.rachitbday.myFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fadeScrollbars="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="50">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_name"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textAlignment="center"
+                />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="24"
+                android:id="@+id/image_wisher"
+                android:src="@drawable/guesswhoimage"
+                />
+            <TextView
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Birthday Image"
+                android:layout_weight="24"
+                android:layout_marginTop="30dp"
+                android:textAlignment="center"
+                android:id="@+id/tv_birthday_message"
+                />
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="20"
+                android:layout_marginTop="40dp"
+                android:id="@+id/et_guess_name"
+                android:layout_weight="1"
+                android:hint="Guess to unlock your Buddy"
+
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/btn_guess_made"
+                android:text="Sure? Lock Kar Diya Jaye?"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                />
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

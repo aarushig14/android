@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1071717509139",
+    "firebase_url": "https://fir-test-a437e.firebaseio.com",
+    "project_id": "fir-test-a437e",
+    "storage_bucket": "fir-test-a437e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071717509139:android:6af00ae7854a54af",
+        "android_client_info": {
+          "package_name": "com.example.agupta1409.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071717509139-qn98a4i6imcaeq39q6meqjl164nd6uaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMoqmHC2o5xZETYK1n_JAvatyxw7pHG_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071717509139-qn98a4i6imcaeq39q6meqjl164nd6uaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
